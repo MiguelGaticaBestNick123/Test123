@@ -4,3 +4,7 @@ h1{
     text-align: center;
     font-size: 100px;
 }
+body{
+    background-image: url(img/anonymous.gif);
+    background-size: 100px;
+}
